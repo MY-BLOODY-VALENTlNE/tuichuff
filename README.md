@@ -1,4 +1,4 @@
-# hi there 
+# hi there, this is my read me
 
 ## im tuichuf / tui / tuichiffre depending on where you find me
 Pronouns: any and all are welcome
