@@ -1,3 +1,5 @@
+<img src="https://github.com/tuichuf/tuichuf/blob/98fe29cfd8380f7b9763a9e772cf746fbed7f266/OH%20MY%20GOD.jpg" alt="JOHN WARD IS HERE AND IT'S GOOD" width="1000">
+
 # hi there, this is my read me
 
 ## im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
