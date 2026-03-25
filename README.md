@@ -1,6 +1,6 @@
 # hi there, this is my read me
 
-## im tuichuf / tui / tuichiffre depending on where you find me
+## im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
 Pronouns: any and all are welcome
 
 - Currently working on this (sorta) + my neocity site (MAIN)
