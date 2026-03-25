@@ -1,6 +1,6 @@
-## hi there 
+# hi there 
 
-# im tuichuf / tui / tuichiffre depending on where you find me
+## im tuichuf / tui / tuichiffre depending on where you find me
 Pronouns: any and all are welcome
 
 - Currently working on this (sorta) + my neocity site (MAIN)
