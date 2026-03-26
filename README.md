@@ -1,4 +1,11 @@
+
+
 DISCLAIMER!! i do very little on github but i'll make something every now and then haha
+
+<p align="center">
+<img src="https://github.com/tuichuf/tuichuf/blob/54f7a277774ff6583c9283a9b5ebd4c3fb1ab1eb/nice%20and%20sparkly%20red.gif" width="350" class="center">
+</p>
+
 
 ## im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it 
 - Currently working on this (sorta) + my neocity site (MAIN)
