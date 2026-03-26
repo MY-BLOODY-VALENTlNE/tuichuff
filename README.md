@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> DISCLAIMER!! i don't use Github often so dont expect anything crazy amazing from me 
+> DISCLAIMER!! i don't use Github often so dont expect anything crazy amazing from me, this is all straightforward and basic 
+> FIRST WARNING FOR BASIC DNI IF YOU KNOW WHAT YOU ARE, GO AWAY
 
 <p align="center">
 <img src="https://github.com/tuichuf/tuichuf/blob/59511496f83236c6d7fcb3c32e1dbe805869cedc/spinning%20john.gif" width="75">
@@ -9,11 +10,11 @@
 <img src="https://github.com/tuichuf/tuichuf/blob/54f7a277774ff6583c9283a9b5ebd4c3fb1ab1eb/nice%20and%20sparkly%20red.gif" width="350">
 </p>
 
-## im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
+# im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
 - Currently working on this (sorta) + my neocity site (MAIN)
 - Currently learning how to use neocity! getting used to css + html
 
-i'm genderfluid, ANY PRONOUNS ARE FINE!! and i have a very wonderful boyfriend
+## BASIC DNI!!! + if youre in the forsaken fandom or anything else problematic
 
 <p align="center">
 <img src="https://github.com/tuichuf/tuichuf/blob/6e25f9f75fa5b2aab59f05962d876aab1f5b1c5c/small%20gold%20cross.gif" width="30">
