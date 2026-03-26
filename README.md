@@ -6,7 +6,7 @@ DISCLAIMER!! i do very little on github but i'll make something every now and th
 
 i'm genderfluid, ANY PRONOUNS ARE FINE!! and i have a very wonderful boyfriend
 
-<img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/3cheersforevil.gif" width="300"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/heartmonitor.gif" width="300"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/youcannotescapethetrueform.gif" width="300">
+<img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/3cheersforevil.gif" width="250"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/heartmonitor.gif" width="250"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/youcannotescapethetrueform.gif" width="250">
 
 ### Main fandoms I'm in: 8:11, Faith: The Unholy Trinty, GRACE, PHIGHTING!, Dandy's World, MCSM,
 
