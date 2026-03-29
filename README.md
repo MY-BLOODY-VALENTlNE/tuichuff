@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> DISCLAIMER!! i don't use Github often so dont expect anything crazy amazing from me, this is all straightforward and basic 
+> ➤ DISCLAIMER!! i don't use Github often so dont expect anything crazy amazing from me, this is all straightforward and basic 
 > FIRST WARNING FOR BASIC DNI IF YOU KNOW WHAT YOU ARE, GO AWAY
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 # im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
-- Currently working on this (sorta) + my neocity site (MAIN)
-- Currently learning how to use neocity! getting used to css + html
+➤ Currently working on this (sorta) + my neocity site (MAIN)
+<p>➤ Currently learning how to use neocity! getting used to css + html</p>
 
 ## BASIC DNI!!! + if youre in the forsaken fandom or anything else problematic
 
@@ -34,7 +34,7 @@
 
 <img src="https://github.com/tuichuf/tuichuf/blob/98fe29cfd8380f7b9763a9e772cf746fbed7f266/OH%20MY%20GOD.jpg" alt="JOHN WARD IS HERE AND IT'S GOOD" width="1000">
 
-# ART IS NOT MINE!! IT'S NEWBLOOD OFFICIAL ART
+# ➤ ART IS NOT MINE!! IT'S NEWBLOOD OFFICIAL ART
 
 <p align="center">
 <img src="https://github.com/tuichuf/tuichuf/blob/aa3f0cd58059cfab56396904c6fe5429fc060eb8/blue%20and%20good%20cross.gif" width="600">
