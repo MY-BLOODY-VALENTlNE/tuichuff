@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/tuichuf/tuichuf/blob/6ec419cf951159e1a7042cd22b1d243811d102c4/falseprophets.gif" width="100"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/heartmonitor.gif" width="250"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/3cheersforevil.gif" width="250">  <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/youcannotescapethetrueform.gif" width="250"> <img src="https://github.com/tuichuf/tuichuf/blob/3806d1ea4c13cd79f943da1bb6599c7bf39f2fc7/faiththeunholytrintystamp.png" width="150">  
+<img src="https://github.com/tuichuf/tuichuf/blob/6ec419cf951159e1a7042cd22b1d243811d102c4/falseprophets.gif" width="100"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/heartmonitor.gif" width="250"> <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/3cheersforevil.gif" width="250">  <img src="https://github.com/tuichuf/tuichuf/blob/e5c99e1343f15269a67eda6763bcc8415d090ae8/youcannotescapethetrueform.gif" width="250"> <img src="https://github.com/tuichuf/tuichuf/blob/3806d1ea4c13cd79f943da1bb6599c7bf39f2fc7/faiththeunholytrintystamp.png" width="60">  
 </p>
 
 <p align="center">
