@@ -11,6 +11,7 @@
 </p>
 
 # im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
+## ALSO BEFORE YOU CONTINUE PLEASE CHECK OUT MY NEOCITY (https://tuichuf.neocities.org) it just looks cool
 ➤ Currently working on this (sorta) + my neocity site (MAIN)
 <p>➤ Currently learning how to use neocity! getting used to css + html</p>
 
