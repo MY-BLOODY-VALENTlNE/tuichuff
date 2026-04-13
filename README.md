@@ -2,8 +2,10 @@
 > ➤ DISCLAIMER!! i don't use Github often so dont expect anything crazy amazing from me, this is all straightforward and basic 
 > FIRST WARNING FOR BASIC DNI IF YOU KNOW WHAT YOU ARE, GO AWAY
 
+## BEFORE YOU CONTINUE PLEASE CHECK OUT MY NEOCITY (https://tuichuf.neocities.org) it just looks cool + has more info sometimes
+
 <p align="center">
-<img src="https://github.com/tuichuf/tuichuf/blob/59511496f83236c6d7fcb3c32e1dbe805869cedc/spinning%20john.gif" width="75">
+<img src="https://github.com/tuichuf/tuichuf/blob/59511496f83236c6d7fcb3c32e1dbe805869cedc/spinning%20john.gif" width="50">
 </p>
 
 <p align="center">
@@ -11,7 +13,6 @@
 </p>
 
 # im tuichuf / tui / tuichiffre / tuichufmaxxing depending on where you find me, but i have many variants of names with 'tui' in it
-## ALSO BEFORE YOU CONTINUE PLEASE CHECK OUT MY NEOCITY (https://tuichuf.neocities.org) it just looks cool
 ➤ Currently working on this (sorta) + my neocity site (MAIN)
 <p>➤ Currently learning how to use neocity! getting used to css + html</p>
 
@@ -31,7 +32,7 @@
 
 ## I LOVE JOHN WARD AND VITTORINO KYAHAHAHAHAHAA!!~
 
-## Main fandoms I'm in: 8:11, Faith: The Unholy Trinty, GRACE, PHIGHTING!, Dandy's World, MCSM
+## Main fandoms I'm in: 8:11, Faith: The Unholy Trinty, Poppy Playtime, GRACE, PHIGHTING!, Dandy's World, MCSM, Days Union
 
 <img src="https://github.com/tuichuf/tuichuf/blob/98fe29cfd8380f7b9763a9e772cf746fbed7f266/OH%20MY%20GOD.jpg" alt="JOHN WARD IS HERE AND IT'S GOOD" width="1000">
 
