@@ -32,7 +32,7 @@
 
 ## I LOVE JOHN WARD AND VITTORINO KYAHAHAHAHAHAA!!~
 
-## Main fandoms I'm in: 8:11, Faith: The Unholy Trinty, Project: Hail Mary, Poppy Playtime, GRACE, PHIGHTING!, Dandy's World, MCSM, Days Union
+## Main fandoms I'm in: 8:11, Faith: The Unholy Trinty, Project: Hail Mary, RDR2, Poppy Playtime, GRACE, PHIGHTING!, Dandy's World, MCSM, Days Union
 
 <img src="https://github.com/tuichuf/tuichuf/blob/98fe29cfd8380f7b9763a9e772cf746fbed7f266/OH%20MY%20GOD.jpg" alt="JOHN WARD IS HERE AND IT'S GOOD" width="1000">
 
