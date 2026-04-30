@@ -16,7 +16,7 @@
 ➤ Currently working on this (sorta) + my neocity site (MAIN)
 <p>➤ Currently learning how to use neocity! getting used to css + html</p>
 
-## BASIC DNI!!! + if youre in the forsaken fandom or anything else problematic
+## BASIC DNI!!!
 
 <p align="center">
 <img src="https://github.com/tuichuf/tuichuf/blob/6e25f9f75fa5b2aab59f05962d876aab1f5b1c5c/small%20gold%20cross.gif" width="30">
