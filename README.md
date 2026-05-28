@@ -10,7 +10,7 @@
 
 </p> 
 
-<h6 align="center">
+<h1 align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31seistngv4nr55z3vexbcuyd26e&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=d01616&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31seistngv4nr55z3vexbcuyd26e&redirect=true)
 
